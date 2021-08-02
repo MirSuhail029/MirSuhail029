@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MirSuhail029
+- 👋 Hi, I’m Mir Suhail
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Technologies
 - 💞️ I’m looking to collaborate on Front-end Development
