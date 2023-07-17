@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mir Suhail Ahmad
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web & Mobile Development
 - 🌱 I’m currently learning Web Technologies
 - 💞️ I’m looking to collaborate on Front-end Development
 - 📫 How to reach me mirsuhail029@gmail.com
